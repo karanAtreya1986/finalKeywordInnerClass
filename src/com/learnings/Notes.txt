@@ -1,0 +1,19 @@
+Final and static combination – only one value can be present at class level.
+Final and non static combination – only one value can be present at object level.
+
+Inner class are divided into two parts-
+Non static inner class and static inner class.
+
+Non static inner class-
+these are for non static members.
+three kinds of non static inner class:
+Member local
+Method Local
+Anonymous
+
+Static inner class also known as nested class.
+Types:
+static inner/nested class.
+
+Why inner class-
+To divide the functionality we use inner class concept.
